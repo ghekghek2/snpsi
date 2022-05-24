@@ -39,6 +39,14 @@ section {
   overflow: hidden;
 }
 
+.request-img{
+  width: 100%;
+  border-radius:1em ;
+  margin-bottom: 1rem;
+ 
+  
+}
+
 .section-header {
   text-align: center;
   padding-bottom: 40px;
